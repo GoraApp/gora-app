@@ -1,0 +1,14 @@
+const String kBackIcon = "assets/icons/back_icon.svg";
+const String kGoogleIcon = "assets/icons/google_icon.jpg";
+const String kFacebookIcon = "assets/icons/facebook_icon.jpg";
+const String kEmailIcon = "assets/icons/email_icon.jpg";
+const String kPhoneIcon = "assets/icons/phone_icon.jpg";
+const String kExitIcon = "assets/icons/exit_icon.svg";
+const String kGoraLogo = "assets/icons/gora_logo.png";
+const String kCalendarIcon = "assets/icons/calendar_icon.png";
+const String kHomeIcon = "assets/icons/home_icon.png";
+const String kBookingIcon = "assets/icons/booking_icon.png";
+const String kQRicon = "assets/icons/qr_icon.png";
+const String kQueueIcon = "assets/icons/queue_icon.jpg";
+const String kDepart = "assets/icons/depart_icon.jpg";
+const String kLocationIcon = "assets/icons/location_icon.jpg";
